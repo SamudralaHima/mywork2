@@ -1,0 +1,35 @@
+.main {
+  background-color: #ffc300;
+}
+.main1 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.sale {
+  text-align: center;
+  border: 3px solid black;
+  line-height: 5px;
+  padding-top: 10px;
+}
+.date {
+  background-color: black;
+  line-height: 5px;
+  padding-bottom: 20px;
+}
+h2 {
+  color: white;
+  padding-left: 10px;
+}
+p {
+  color: #ffc300;
+  padding-left: 10px;
+}
+.two {
+  color: #ffc300;
+  padding-left: 20px;
+}
+.three {
+  color: white;
+  padding-left: 20px;
+}
